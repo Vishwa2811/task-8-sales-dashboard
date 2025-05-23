@@ -1,0 +1,6 @@
+Insights from the Sales Dashboard:
+
+1. Technology category has the highest total sales among all categories.
+2. Sales peak during November and December months.
+3. The West region consistently performs best in terms of overall sales.
+4. Furniture has good sales but relatively lower profit margins.
